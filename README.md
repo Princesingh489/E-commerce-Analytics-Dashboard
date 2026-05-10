@@ -71,7 +71,8 @@ This project is an end-to-end data analytics solution designed to analyze e-comm
 ---
 
 ## 📷 Dashboard Preview
-(Add your Tableau dashboard screenshot here)
+<img width="1898" height="880" alt="image" src="https://github.com/user-attachments/assets/58afdd7f-0af4-4e39-92a9-3bb4407a8ed1" />
+
 
 ---
 
