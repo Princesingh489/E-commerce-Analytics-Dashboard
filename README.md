@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 This project is an end-to-end data analytics solution designed to analyze e-commerce sales data and generate meaningful business insights. It involves data extraction, cleaning, analysis, and visualization using industry-standard tools.
 
----
+---## 📷 Dashboard Preview
+<img width="1898" height="880" alt="image" src="https://github.com/user-attachments/assets/58afdd7f-0af4-4e39-92a9-3bb4407a8ed1" />
 
 ## 🚀 Objectives
 - Analyze sales performance across categories, regions, and products
@@ -67,13 +68,6 @@ This project is an end-to-end data analytics solution designed to analyze e-comm
 - Technology category generates highest revenue
 - Some products have high sales but low profit due to discounts
 - West region performs best in terms of sales
-
----
-
-## 📷 Dashboard Preview
-<img width="1898" height="880" alt="image" src="https://github.com/user-attachments/assets/58afdd7f-0af4-4e39-92a9-3bb4407a8ed1" />
-
-
 ---
 
 ## 💡 Learnings
